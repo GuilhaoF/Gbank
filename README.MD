@@ -1,3 +1,5 @@
+# GBank
+
 > O projeto consiste em uma pagina de login de um banco usando conceito de mobile first.
 
 <p align="center">
@@ -7,12 +9,9 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-E3E627">
 </p>
 
-
 ## Fotos
 
-<div>
-   ![Gbank](https://user-images.githubusercontent.com/67026555/204924363-4ea43188-1f2d-459e-8deb-e8c02c8d1e90.png)
-</div>
+![Gbank](https://user-images.githubusercontent.com/67026555/204924363-4ea43188-1f2d-459e-8deb-e8c02c8d1e90.png)
 
 ## 💻 Tecnologias
 
@@ -22,7 +21,6 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org)
 - [Vite](https://vitejs.dev/)
 - [Styled Components](https://styled-components.com/)
-
 
 ## 🛠️ Executando
 
