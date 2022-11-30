@@ -42,10 +42,8 @@ $ yarn dev
 Para fazer o deploy desse projeto rode
 
 ```bash
-    yarn build 
+$ yarn build
 ```
-
-
 
 ## 🖊️ Autores
 
