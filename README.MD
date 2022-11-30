@@ -5,8 +5,6 @@
 <p align="center">
    <a href="https://www.linkedin.com/in/luis-felipe-silv/">
    </a>
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-E3E627">
 </p>
 
 ## Fotos
@@ -38,6 +36,16 @@ $ yarn install
 # Execute o projeto
 $ yarn dev
 ```
+
+## Deploy
+
+Para fazer o deploy desse projeto rode
+
+```bash
+    yarn build 
+```
+
+
 
 ## 🖊️ Autores
 
