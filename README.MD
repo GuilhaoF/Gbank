@@ -2,7 +2,6 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/luis-felipe-silv/">
-      <img alt="Luis Felipe" src="https://media-exp1.licdn.com/dms/image/D4D03AQFN2X-_QOxsrw/profile-displayphoto-shrink_200_200/0/1668857859985?e=1675296000&v=beta&t=liEJuamBbj03m1dKSbvG-unQ_bm5u3g_Re_jRKUQm4U" />
    </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-E3E627">
